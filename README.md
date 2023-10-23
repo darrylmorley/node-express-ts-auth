@@ -49,10 +49,10 @@ JWT_SECRET=your_jwt_secret_key
 
 ## API Endpoints
 
-/api/register - User registration endpoint.
-/api/login - User login endpoint.
-/api/logout - User logout endpoint.
-/api/user - Get the current user's profile (requires authentication).
+- /api/register - User registration endpoint.
+- /api/login - User login endpoint.
+- /api/logout - User logout endpoint.
+- /api/user - Get the current user's profile (requires authentication).
 
 ---
 
